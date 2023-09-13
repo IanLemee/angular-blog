@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.container__articles {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 2rem;
+  margin-top: 10px;
+}
