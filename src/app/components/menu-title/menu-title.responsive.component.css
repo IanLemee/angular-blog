@@ -1,0 +1,5 @@
+@media screen and (max-width: 300px){
+  .menu__title__container h1 {
+    font-size: 10px;
+  }
+}
